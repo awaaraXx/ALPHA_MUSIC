@@ -21,7 +21,7 @@ from SONALI.logging import LOGGER
 logger = LOGGER("SONALI/platforms/Youtube.py")
 
 SHRUTI_API_URL = os.environ.get("SHRUTI_API_URL", "http://api01.shrutibots.site")
-SHRUTI_API_KEY = os.environ.get("SHRUTI_API_KEY", "API_KEY") #On Telegram @SHRUTIAPIBOT
+SHRUTI_API_KEY = os.environ.get("SHRUTI_API_KEY", "ShrutiBotsytOIHCWN0qG8zxmU4dJr") #On Telegram @SHRUTIAPIBOT
 
 DOWNLOAD_DIR = "downloads"
 
